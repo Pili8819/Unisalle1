@@ -1,17 +1,17 @@
 REPORTE FINANCIERO
 -----------------
-Ingresos: $734.087
-Gastos: $1.227.194
-Balance: $-493.107
+Ingresos: $12.317
+Gastos: $31.344
+Balance: $-19.027
 
 ALERTAS:
 - Estas gastando mas de lo que ganas
 
-Dia con mas gasto: 2024-01-19
-Categoria con mas gasto: Travel
+Dia con mas gasto: 2022-05-07
+Categoria con mas gasto: Entertainment
 
-Meta de ahorro: $146.817
-Ahorro actual: $-493.107
+Meta de ahorro: $2.463
+Ahorro actual: $-19.027
 
 Consejos:
 - Intenta ahorrar mas dinero
